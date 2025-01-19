@@ -4,7 +4,7 @@
   
 - **_A continuación veremos otra forma de hacerlo con el ciclo ```while```._**
 
-### _While_
+### **_While_**
 
 El uso del while nos permite ejecutar una sección de código repetidas veces, de ahí su nombre. El código se ejecutará mientras una condición determinada se cumpla. Cuando se deje de cumplir, se saldrá del bucle y se continuará la ejecución normal. Llamaremos iteración a una ejecución completa del bloque de código.
 
