@@ -14,5 +14,5 @@
   
 - **_En este caso se entra al bloque de código 5 veces, hasta que en la sexta, x vale cero y por lo tanto la condición ya no se cumple. Por lo tanto el while tiene dos partes:_**
 
-- La condición que se tiene que cumplir para que se ejecute el código.
+  - La condición que se tiene que cumplir para que se ejecute el código.
 - El bloque de código que se ejecutará mientras la condición se cumpla.
