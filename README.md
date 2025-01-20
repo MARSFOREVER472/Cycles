@@ -16,4 +16,4 @@
 
   - **_La condición que se tiene que cumplir para que se ejecute el código._**
   
-  - _El bloque de código que se ejecutará mientras la condición se cumpla._
+  - **_El bloque de código que se ejecutará mientras la condición se cumpla._**
