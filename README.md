@@ -17,3 +17,15 @@
   - **_La condición que se tiene que cumplir para que se ejecute el código._**
   
   - **_El bloque de código que se ejecutará mientras la condición se cumpla._**
+
+- **_Ten cuidado ya que un mal uso del while puede dar lugar a bucles infinitos y problemas._**
+  
+- **_Cierto es que en algún caso tal vez nos interese tener un bucle infinito, pero salvo que estemos seguros de lo que estamos haciendo, hay que tener cuidado._**
+  
+- **_Imaginemos que tenemos un bucle cuya condición siempre se cumple._**
+  
+- **_Por ejemplo, si ponemos True en la condición del while, siempre que se evalúe esa expresión, el resultado será True y se ejecutará el bloque de código._**
+  
+- **_Una vez llegado al final del bloque, se volverá a evaluar la condición, se cumplirá, y vuelta a empezar._**
+  
+- **_No te recomiendo que ejecutes el siguiente código, pero puedes intentarlo._**
