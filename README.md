@@ -28,4 +28,4 @@
   
 - **_Una vez llegado al final del bloque, se volverá a evaluar la condición, se cumplirá, y vuelta a empezar._**
   
-- No te recomiendo que ejecutes el siguiente código, pero puedes intentarlo.
+- _No te recomiendo que ejecutes el siguiente código, pero puedes intentarlo._
