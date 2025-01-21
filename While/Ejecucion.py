@@ -20,3 +20,16 @@
 x = 5
 while x > 0: x -=1; print(x)
 
+# También podemos usar otro tipo de operación dentro del while, como la que se muestra a continuación. 
+# En este caso tenemos una lista que mientras no este vacía, vamos eliminando su primer elemento.
+
+x = ["ONE", "TWO", "THREE"]
+while x:
+    x.pop(0)
+    print(x)
+
+# SALIDA:
+
+# ['TWO', 'THREE']
+# ['THREE']
+# []
