@@ -20,7 +20,7 @@
 
 - **_Ten cuidado ya que un mal uso del while puede dar lugar a bucles infinitos y problemas._**
   
-- Cierto es que en algún caso tal vez nos interese tener un bucle infinito, pero salvo que estemos seguros de lo que estamos haciendo, hay que tener cuidado.
+- _Cierto es que en algún caso tal vez nos interese tener un bucle infinito, pero salvo que estemos seguros de lo que estamos haciendo, hay que tener cuidado._
   
 - Imaginemos que tenemos un bucle cuya condición siempre se cumple.
   
