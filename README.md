@@ -27,4 +27,5 @@
 - Por ejemplo, si ponemos True en la condición del while, siempre que se evalúe esa expresión, el resultado será True y se ejecutará el bloque de código.
   
 - Una vez llegado al final del bloque, se volverá a evaluar la condición, se cumplirá, y vuelta a empezar.
+  
 - No te recomiendo que ejecutes el siguiente código, pero puedes intentarlo.
