@@ -1,4 +1,4 @@
-# **_Bucles while_**
+# **_Bucles ```while```_**
 
 - **_Anteriormente hemos visto el uso de la condición ```if``` y el ciclo ```for``` para modificar el flujo de ejecución del código._**
   
