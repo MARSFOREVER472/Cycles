@@ -22,7 +22,7 @@
   
 - **_Cierto es que en algún caso tal vez nos interese tener un bucle infinito, pero salvo que estemos seguros de lo que estamos haciendo, hay que tener cuidado._**
   
-- **_Imaginemos que tenemos un bucle cuya condición siempre se cumple._**
+- **_Imaginemos que tenemos un bucle cualquiera cuya condición siempre se cumple._**
   
 - **_Por ejemplo, si ponemos True en la condición del while, siempre que se evalúe esa expresión, el resultado será ```True``` y se ejecutará el bloque de código._**
   
