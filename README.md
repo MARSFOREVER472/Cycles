@@ -6,7 +6,7 @@
 
 ### **_```while```_**
 
-- **_El uso del ```while``` nos permite ejecutar una sección de código repetidas veces, de ahí su nombre. El código se ejecutará mientras una condición determinada se cumpla. Cuando la condición se deje de cumplir, ésta se saldrá del bucle y se continuará la ejecución normal. Llamaremos iteración a una ejecución completa de un bloque de código._**
+- **_El uso del ```while``` nos permite ejecutar una sección de código repetidas veces, de ahí su nombre. El código se ejecutará mientras una condición determinada se cumpla. Cuando la condición se deje de cumplir, ésta se saldrá del bucle y se continuará la ejecución normal. Llamaremos "iteración" a una ejecución completa de un bloque de código._**
 
 - **_Cabe destacar que existen 2 tipos de bucles, los que tienen un número de iteraciones no definidas, y los que tienen un número de iteraciones definidas. El ciclo ```while``` estaría dentro del primer tipo de variable. Más adelante veremos el ciclo ```for```, en las cuáles se engloban en el segundo._**
 
