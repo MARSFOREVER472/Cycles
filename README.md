@@ -29,3 +29,6 @@
 - **_Una vez llegado al final del bloque, se volverá a evaluar la condición, se cumplirá, y vuelta a empezar._**
   
 - **_No te recomiendo que ejecutes el siguiente código, pero puedes intentarlo._**
+# No ejecutes esto, en serio
+while True:
+    print("Bucle infinito")
