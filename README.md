@@ -33,3 +33,4 @@
 # No ejecutes esto, en serio
 while True:
     print("Bucle infinito")
+```
