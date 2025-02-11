@@ -36,6 +36,6 @@ while True:
     print("Bucle infinito")
 ```
 
-- Es posible tener un while dentro de una sola línea, algo muy útil si el bloque que queremos ejecutar es corto.
+- _Es posible tener un while dentro de una sola línea, algo muy útil si el bloque que queremos ejecutar es corto._
   
 - En el caso de tener mas de una sentencia, las debemos separar con ;.
