@@ -18,7 +18,7 @@
   
   - **_El bloque de código que se ejecutará mientras la condición se cumpla._**
 
-- **_Ten cuidado ya que un mal uso del while puede dar lugar a bucles infinitos y problemas._**
+- **_Ten cuidado ya que un mal uso del ```while``` puede dar lugar a bucles infinitos y problemas._**
   
 - **_Cierto es que en algún caso tal vez nos interese tener un bucle infinito, pero salvo que estemos seguros de lo que estamos haciendo, hay que tener cuidado._**
   
