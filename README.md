@@ -45,4 +45,4 @@ x = 5
 while x > 0: x-=1; print(x)
 ```
 
-_También podemos usar otro tipo de operación dentro del while, como la que se muestra a continuación. En este caso tenemos una lista que mientras no este vacía, vamos eliminando su primer elemento._
+**_También podemos usar otro tipo de operación dentro del while, como la que se muestra a continuación. En este caso tenemos una lista que mientras no este vacía, vamos eliminando su primer elemento._**
