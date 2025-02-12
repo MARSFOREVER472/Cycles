@@ -24,7 +24,7 @@
   
 - **_Imaginemos que tenemos un bucle cualquiera cuya condición siempre se cumple._**
   
-- **_Por ejemplo, si ponemos ```True``` en la condición del while, siempre que se evalúe esa expresión, el resultado será ```True``` y se ejecutará el bloque de código._**
+- **_Por ejemplo, si ponemos ```True``` en la condición del ```while```, siempre que se evalúe esa expresión, el resultado será ```True``` y se ejecutará el bloque de código._**
   
 - **_Una vez llegado al final del bloque, se volverá a evaluar la condición, se cumplirá, y vuelta a empezar._**
   
