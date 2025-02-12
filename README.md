@@ -38,7 +38,7 @@ while True:
 
 - **_Es posible tener un ```while``` dentro de una sola línea, algo muy útil si el bloque que queremos ejecutar es corto._**
   
-- **_En el caso de tener mas de una sentencia, las debemos separar con ```;```._**
+- **_En el caso de tener más de una sentencia, las debemos separar con ```;```._**
 
 ```
 x = 5
